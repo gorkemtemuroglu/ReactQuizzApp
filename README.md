@@ -1,3 +1,6 @@
+İf you want start this project make sure you first npm install after than npm start, also you should npm run server for this fake API I used.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
